@@ -16,6 +16,5 @@ java,css,html,git,js
 
 ## Connect with Me
 
-{"Instagram":"https://www.instagram.com/mt.henryx/?next=%2F"}
 
-{"LinkedIn":"https://www.linkedin.com/in/matheus-henry-dos-santos-6092aa2a9/"}
+
