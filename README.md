@@ -4,7 +4,7 @@ I am currently located in São Paulo, Brasil. With a strong foundation in progra
 
 ## Skills & Technologies
 
-java,css,html,git,js
+java, css, html, git, js
 
 ## GitHub Stats
 
@@ -13,8 +13,6 @@ java,css,html,git,js
 👣 **Following:** 6  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mthenryx&show_icons=true&theme=radical)
-
-## Connect with Me
 
 
 
