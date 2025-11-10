@@ -8,9 +8,9 @@ I am currently located in Osasco/SP, Brasil. With a strong foundation in program
 
 ## GitHub Stats
 
-🌟 **Public Repositories:** 16  
+🌟 **Public Repositories:** 24  
 👥 **Followers:** 5  
-👣 **Following:** 8
+👣 **Following:** 9
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mthenryx&show_icons=true&theme=radical)
 
