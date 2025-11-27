@@ -5,7 +5,7 @@
 
 <!--languages-->
 <div style="display: inline_block"><br>
-  <img align="center" alt="henry-java" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/1100px-Java_Logo.svg.png">
+  <img align="center" alt="henry-java" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-svg-download-png-2945017.png?f=webp">
   <img align="center" alt="henry-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="henry-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="henry-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
