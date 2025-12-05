@@ -20,8 +20,6 @@
   <a href="https://www.linkedin.com/in/matheus-henry-dos-santos-6092aa2a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mthenryx&show_icons=true&theme=radical)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yurikomuta/yurikomuta/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yurikomuta/yurikomuta/output/github-contribution-grid-snake.svg">
