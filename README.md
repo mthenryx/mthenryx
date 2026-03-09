@@ -1,39 +1,77 @@
-## About Me
-
-- 🔭 Hoje eu estudo analise e desenvolvimento de sistemas
-- 📫 Contate me : 09matheushenry@gmail.com
-
-<!--languages-->
-<div style="display: inline_block"><br>
-  <img align="center" alt="henry-java" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-svg-download-png-2945017.png?f=webp">
-  <img align="center" alt="henry-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="henry-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="henry-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="henry-react" height="30" width="40" src="https://github.com/user-attachments/assets/5984e4ef-4319-47b2-8a35-bc034ef6b695" />
-  <img align="center" alt="henry-typescript" height="30" width="40" src="https://github.com/user-attachments/assets/66a20391-e431-46b1-8eee-22db7f3e238f" />
-  <img align="center" alt="henry-mySQL" height="30" width="40" src="https://github.com/user-attachments/assets/17a971ff-81bc-45ef-8be8-b4ad156ac46f" />
-  <img align="center" alt="henry-node.js" height="30" width="40" src="https://github.com/user-attachments/assets/9e62aca1-133c-4349-9bba-12e08c0c65c9" />
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-  ##
+###
 
-<!--social media-->
-<div> 
-  <a href="https://instagram.com/mt.henryx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:09matheushenry@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-henry-dos-santos-6092aa2a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <a href="https://www.linkedin.com/in/matheus-henry-dos-santos-6092aa2a9/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/mt.henryx" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="mailto:09matheushenry@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
+
+###
+
+<h1 align="center">Olá, me chamo Matheus 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  Sobre/About Me</h3>
+
+###
+
+<p align="left">Estudante do ensino médio e do curso técnico em Desenvolvimento de Sistemas pelo SENAI. Estou me preparando para seguir carreira como Desenvolvedor ou AppSec e criei este perfil para aprender mais sobre o mercado, fazer conexões e acompanhar tendências da área. No momento, focado em adquirir conhecimento e crescer na área de tecnologia.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mthenryx&theme=radical" alt="GitHub Streak" />
+</p>
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yurikomuta/yurikomuta/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yurikomuta/yurikomuta/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yurikomuta/yurikomuta/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation"src="https://raw.githubusercontent.com/yurikomuta/yurikomuta/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
-
-
-
-
-
+###
