@@ -47,27 +47,18 @@ objetivo_profissional: "Application Security / AppSec"
 
 **`backend/`**
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/MVC-00D9FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DAO-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" /><img src="https://img.shields.io/badge/MVC-00D9FF?style=for-the-badge" /><img src="https://img.shields.io/badge/DAO-00D9FF?style=for-the-badge" />
+
 
 **`frontend/`**
 
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React.js%20(aprendendo)-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" /><img src="https://img.shields.io/badge/React.js%20(aprendendo)-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 
 > Trabalho principalmente com **Vue.js**. Estou desenvolvendo conhecimento em **React.js** aos poucos.
 
 **`tools/`**
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" /><img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 
 <br>
 
