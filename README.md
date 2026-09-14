@@ -58,26 +58,6 @@ objetivo_profissional: "Application Security / AppSec"
 
 <br>
 
-## `$ github_stats`
-
-```bash
-┌──[matheus@github]─[~/stats]
-└─$ fetch --live
-```
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mthenryx&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00D9FF&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthenryx&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=c9d1d9" />
-
-<img src="https://streak-stats.demolab.com?user=mthenryx&theme=dark&hide_border=true&background=0D1117&ring=00FF9D&fire=FF2E63&currStreakLabel=00FF9D" />
-
-![Visitantes](https://komarev.com/ghpvc/?username=mthenryx&label=visualizações&color=00FF9D&style=for-the-badge)
-
-</div>
-
-<br>
-
 ## `$ contact`
 
 ```bash
